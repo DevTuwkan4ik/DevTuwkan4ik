@@ -46,6 +46,7 @@
 | [cosmic-voyage](https://github.com/DevTuwkan4ik/cosmic-voyage) | Space landing with an interactive 3D scene | Three.js · TS · WebGL · GLSL | [open](https://devtuwkan4ik.github.io/cosmic-voyage/) |
 | [aurora-studio](https://github.com/DevTuwkan4ik/aurora-studio) | Studio landing with a live WebGL gradient | WebGL · GLSL · TS · Vite | [open](https://devtuwkan4ik.github.io/aurora-studio/) |
 | [finlog](https://github.com/DevTuwkan4ik/finlog) | CLI expense tracker with tests and CI | Python · pytest | — |
+| [go-shortener](https://github.com/DevTuwkan4ik/go-shortener) | URL shortener: REST API, tests, Docker | Go · net/http · Docker | — |
 
 ---
 

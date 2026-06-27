@@ -46,6 +46,7 @@
 | [cosmic-voyage](https://github.com/DevTuwkan4ik/cosmic-voyage) | Космический лендинг с интерактивной 3D-сценой | Three.js · TS · WebGL · GLSL | [открыть](https://devtuwkan4ik.github.io/cosmic-voyage/) |
 | [aurora-studio](https://github.com/DevTuwkan4ik/aurora-studio) | Лендинг студии с живым WebGL-градиентом | WebGL · GLSL · TS · Vite | [открыть](https://devtuwkan4ik.github.io/aurora-studio/) |
 | [finlog](https://github.com/DevTuwkan4ik/finlog) | CLI-учёт расходов с тестами и CI | Python · pytest | — |
+| [go-shortener](https://github.com/DevTuwkan4ik/go-shortener) | Сокращатель ссылок: REST API, тесты, Docker | Go · net/http · Docker | — |
 
 ---
 

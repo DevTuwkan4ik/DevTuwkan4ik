@@ -44,6 +44,7 @@
 | [kanban-board](https://github.com/DevTuwkan4ik/kanban-board) | Kanban board with drag & drop | React · TS · Vite | [open](https://devtuwkan4ik.github.io/kanban-board/) |
 | [coffee-shop](https://github.com/DevTuwkan4ik/coffee-shop) | Full-stack coffee shop (API + DB + Docker) | React · TS · Express · PostgreSQL · Docker | [open](https://devtuwkan4ik.github.io/coffee-shop/) |
 | [cosmic-voyage](https://github.com/DevTuwkan4ik/cosmic-voyage) | Space landing with an interactive 3D scene | Three.js · TS · WebGL · GLSL | [open](https://devtuwkan4ik.github.io/cosmic-voyage/) |
+| [aurora-studio](https://github.com/DevTuwkan4ik/aurora-studio) | Studio landing with a live WebGL gradient | WebGL · GLSL · TS · Vite | [open](https://devtuwkan4ik.github.io/aurora-studio/) |
 
 ---
 

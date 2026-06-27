@@ -41,6 +41,7 @@
 |--------|----------|------|------|
 | [focus-timer](https://github.com/DevTuwkan4ik/focus-timer) | Pomodoro-таймер для концентрации | HTML · CSS · JS | [открыть](https://devtuwkan4ik.github.io/focus-timer/) |
 | [notes-api](https://github.com/DevTuwkan4ik/notes-api) | REST API для заметок: CRUD и валидация | Node · Express | — |
+| [kanban-board](https://github.com/DevTuwkan4ik/kanban-board) | Канбан-доска с drag & drop | React · TS · Vite | [открыть](https://devtuwkan4ik.github.io/kanban-board/) |
 
 ---
 

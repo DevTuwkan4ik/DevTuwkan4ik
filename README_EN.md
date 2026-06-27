@@ -42,6 +42,7 @@
 | [focus-timer](https://github.com/DevTuwkan4ik/focus-timer) | Pomodoro focus timer | HTML · CSS · JS | [open](https://devtuwkan4ik.github.io/focus-timer/) |
 | [notes-api](https://github.com/DevTuwkan4ik/notes-api) | REST API for notes: CRUD & validation | Node · Express | — |
 | [kanban-board](https://github.com/DevTuwkan4ik/kanban-board) | Kanban board with drag & drop | React · TS · Vite | [open](https://devtuwkan4ik.github.io/kanban-board/) |
+| [coffee-shop](https://github.com/DevTuwkan4ik/coffee-shop) | Full-stack coffee shop (API + DB + Docker) | React · TS · Express · PostgreSQL · Docker | [open](https://devtuwkan4ik.github.io/coffee-shop/) |
 
 ---
 

@@ -43,6 +43,7 @@
 | [notes-api](https://github.com/DevTuwkan4ik/notes-api) | REST API для заметок: CRUD и валидация | Node · Express | — |
 | [kanban-board](https://github.com/DevTuwkan4ik/kanban-board) | Канбан-доска с drag & drop | React · TS · Vite | [открыть](https://devtuwkan4ik.github.io/kanban-board/) |
 | [coffee-shop](https://github.com/DevTuwkan4ik/coffee-shop) | Фуллстек интернет-магазин кофе (API + БД + Docker) | React · TS · Express · PostgreSQL · Docker | [открыть](https://devtuwkan4ik.github.io/coffee-shop/) |
+| [cosmic-voyage](https://github.com/DevTuwkan4ik/cosmic-voyage) | Космический лендинг с интерактивной 3D-сценой | Three.js · TS · WebGL · GLSL | [открыть](https://devtuwkan4ik.github.io/cosmic-voyage/) |
 
 ---
 

@@ -1,13 +1,13 @@
 <p align="center">
-  🇷🇺 <b>Русский</b> &nbsp;·&nbsp; <a href="README_EN.md">🇬🇧 English</a>
+  <a href="README.md">🇷🇺 Русский</a> &nbsp;·&nbsp; 🇬🇧 <b>English</b>
 </p>
 
-<h1 align="center">Привет, я Tuwkan4ik 👋</h1>
-<h3 align="center">Fullstack-разработчик · Frontend · Backend · Mobile</h3>
+<h1 align="center">Hi, I'm Tuwkan4ik 👋</h1>
+<h3 align="center">Fullstack Developer · Frontend · Backend · Mobile</h3>
 
 <p align="center">
-  Делаю продукты под ключ — от интерфейса до сервера и мобильного приложения.<br/>
-  Беру задачи целиком и довожу до результата.
+  I build products end to end — from the interface to the server and mobile app.<br/>
+  I take projects as a whole and see them through to the result.
 </p>
 
 <p align="center">
@@ -17,34 +17,34 @@
 
 ---
 
-### 💼 О себе
+### 💼 About me
 
-- 🌍 Языки общения: **русский**, **английский**
-- 🤝 Работаю по заказам — беру проект под ключ и довожу до результата
-- 💬 Лучший способ связи — Telegram или Email (см. выше)
-- ✅ Открыт к новым заказам и долгосрочному сотрудничеству
-
----
-
-### 🧩 Чем могу быть полезен
-
-- 🖥️ **Frontend** — адаптивные интерфейсы, SPA, аккуратная вёрстка
-- ⚙️ **Backend** — REST/GraphQL API, базы данных, интеграции
-- 📱 **Mobile** — кроссплатформенные мобильные приложения
-- 🔗 **Под ключ** — беру проект целиком: фронт + бэк + деплой
+- 🌍 Languages: **Russian**, **English**
+- 🤝 Available for freelance — I take projects turnkey and deliver
+- 💬 Best way to reach me — Telegram or Email (see above)
+- ✅ Open to new orders and long-term collaboration
 
 ---
 
-### 📌 Проекты
+### 🧩 What I can help with
 
-| Проект | Описание | Стек | Демо |
-|--------|----------|------|------|
-| [focus-timer](https://github.com/DevTuwkan4ik/focus-timer) | Pomodoro-таймер для концентрации | HTML · CSS · JS | [открыть](https://devtuwkan4ik.github.io/focus-timer/) |
-| [notes-api](https://github.com/DevTuwkan4ik/notes-api) | REST API для заметок: CRUD и валидация | Node · Express | — |
+- 🖥️ **Frontend** — responsive interfaces, SPAs, clean markup
+- ⚙️ **Backend** — REST/GraphQL APIs, databases, integrations
+- 📱 **Mobile** — cross-platform mobile apps
+- 🔗 **Turnkey** — I take the whole project: frontend + backend + deploy
 
 ---
 
-### 🛠️ Стек
+### 📌 Projects
+
+| Project | Description | Stack | Demo |
+|---------|-------------|-------|------|
+| [focus-timer](https://github.com/DevTuwkan4ik/focus-timer) | Pomodoro focus timer | HTML · CSS · JS | [open](https://devtuwkan4ik.github.io/focus-timer/) |
+| [notes-api](https://github.com/DevTuwkan4ik/notes-api) | REST API for notes: CRUD & validation | Node · Express | — |
+
+---
+
+### 🛠️ Tech stack
 
 **Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -63,13 +63,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Инструменты**
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-### 📊 GitHub статистика
+### 📊 GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevTuwkan4ik&show_icons=true&hide_border=true&theme=tokyonight" alt="stats"/>
@@ -79,5 +79,5 @@
 ---
 
 <p align="center">
-  📫 Открыт к интересным заказам и проектам — пиши!
+  📫 Open to interesting orders and projects — feel free to reach out!
 </p>

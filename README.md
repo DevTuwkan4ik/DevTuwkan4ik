@@ -48,6 +48,7 @@
 | [finlog](https://github.com/DevTuwkan4ik/finlog) | CLI-учёт расходов с тестами и CI | Python · pytest | — |
 | [go-shortener](https://github.com/DevTuwkan4ik/go-shortener) | Сокращатель ссылок: REST API, тесты, Docker | Go · net/http · Docker | — |
 | [rust-calc](https://github.com/DevTuwkan4ik/rust-calc) | Калькулятор выражений: лексер, парсер, AST | Rust · clippy | — |
+| [java-lru-cache](https://github.com/DevTuwkan4ik/java-lru-cache) | Потокобезопасный LRU-кэш O(1) | Java · Maven · JUnit | — |
 
 ---
 

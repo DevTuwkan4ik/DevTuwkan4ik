@@ -50,6 +50,7 @@
 | [rust-calc](https://github.com/DevTuwkan4ik/rust-calc) | Expression calculator: lexer, parser, AST | Rust · clippy | — |
 | [java-lru-cache](https://github.com/DevTuwkan4ik/java-lru-cache) | Thread-safe O(1) LRU cache | Java · Maven · JUnit | — |
 | [dotnet-ratelimiter](https://github.com/DevTuwkan4ik/dotnet-ratelimiter) | Rate limiter (token bucket), thread-safe | C# · .NET · xUnit | — |
+| [cpp-ringbuffer](https://github.com/DevTuwkan4ik/cpp-ringbuffer) | Generic O(1) circular buffer, header-only | C++17 · CMake · CTest | — |
 
 ---
 

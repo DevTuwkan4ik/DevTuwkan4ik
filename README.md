@@ -51,6 +51,7 @@
 | [java-lru-cache](https://github.com/DevTuwkan4ik/java-lru-cache) | Потокобезопасный LRU-кэш O(1) | Java · Maven · JUnit | — |
 | [dotnet-ratelimiter](https://github.com/DevTuwkan4ik/dotnet-ratelimiter) | Rate limiter (token bucket), потокобезопасный | C# · .NET · xUnit | — |
 | [cpp-ringbuffer](https://github.com/DevTuwkan4ik/cpp-ringbuffer) | Обобщённый кольцевой буфер O(1), header-only | C++17 · CMake · CTest | — |
+| [php-money](https://github.com/DevTuwkan4ik/php-money) | Иммутабельный value-object «Деньги» | PHP · Composer · PHPUnit | — |
 
 ---
 

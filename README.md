@@ -52,6 +52,10 @@
 | [dotnet-ratelimiter](https://github.com/DevTuwkan4ik/dotnet-ratelimiter) | Rate limiter (token bucket), потокобезопасный | C# · .NET · xUnit | — |
 | [cpp-ringbuffer](https://github.com/DevTuwkan4ik/cpp-ringbuffer) | Обобщённый кольцевой буфер O(1), header-only | C++17 · CMake · CTest | — |
 | [php-money](https://github.com/DevTuwkan4ik/php-money) | Иммутабельный value-object «Деньги» | PHP · Composer · PHPUnit | — |
+| [terraform-do-infra](https://github.com/DevTuwkan4ik/terraform-do-infra) | IaC для DigitalOcean: VPC, дроплеты, firewall из модулей | Terraform · DigitalOcean | — |
+| [ansible-server-setup](https://github.com/DevTuwkan4ik/ansible-server-setup) | Харденинг Ubuntu-сервера: SSH, ufw, автообновления | Ansible | — |
+| [prometheus-grafana-stack](https://github.com/DevTuwkan4ik/prometheus-grafana-stack) | Мониторинг: датасорс и дашборд как код | Prometheus · Grafana · Docker | — |
+| [blue-green-deploy](https://github.com/DevTuwkan4ik/blue-green-deploy) | Zero-downtime деплой: nginx upstream swap | Docker · Nginx | — |
 
 ---
 
@@ -84,6 +88,13 @@
 **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**DevOps**
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 **Инструменты**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)

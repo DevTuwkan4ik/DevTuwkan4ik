@@ -59,6 +59,7 @@
 | [realtime-leaderboard](https://github.com/DevTuwkan4ik/realtime-leaderboard) | Live leaderboard: updates pushed over WebSocket | Node · Express · WebSocket | — |
 | [caching-proxy](https://github.com/DevTuwkan4ik/caching-proxy) | CLI proxy that caches GET responses in memory | Go · net/http | — |
 | [movie-reservation-system](https://github.com/DevTuwkan4ik/movie-reservation-system) | Cinema seat booking with no double-booking under load | Python · FastAPI · SQLite | — |
+| [image-processing-service](https://github.com/DevTuwkan4ik/image-processing-service) | Resize, grayscale, rotate, format conversion | Go · image (stdlib) | — |
 
 ---
 

@@ -57,6 +57,7 @@
 | [prometheus-grafana-stack](https://github.com/DevTuwkan4ik/prometheus-grafana-stack) | Monitoring stack: datasource & dashboard as code | Prometheus · Grafana · Docker | — |
 | [blue-green-deploy](https://github.com/DevTuwkan4ik/blue-green-deploy) | Zero-downtime deploy: nginx upstream swap | Docker · Nginx | — |
 | [realtime-leaderboard](https://github.com/DevTuwkan4ik/realtime-leaderboard) | Live leaderboard: updates pushed over WebSocket | Node · Express · WebSocket | — |
+| [caching-proxy](https://github.com/DevTuwkan4ik/caching-proxy) | CLI proxy that caches GET responses in memory | Go · net/http | — |
 
 ---
 

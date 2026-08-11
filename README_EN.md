@@ -61,6 +61,7 @@
 | [movie-reservation-system](https://github.com/DevTuwkan4ik/movie-reservation-system) | Cinema seat booking with no double-booking under load | Python · FastAPI · SQLite | — |
 | [image-processing-service](https://github.com/DevTuwkan4ik/image-processing-service) | Resize, grayscale, rotate, format conversion | Go · image (stdlib) | — |
 | [markdown-notes](https://github.com/DevTuwkan4ik/markdown-notes) | Notes with a Markdown renderer written from scratch | Node · Express | — |
+| [ecommerce-sales-analysis](https://github.com/DevTuwkan4ik/ecommerce-sales-analysis) | EDA: data cleaning, revenue analysis, charts | Python · Pandas · Matplotlib | — |
 
 ---
 
@@ -95,6 +96,10 @@
 **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Data**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 **DevOps**
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)

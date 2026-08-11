@@ -56,6 +56,7 @@
 | [ansible-server-setup](https://github.com/DevTuwkan4ik/ansible-server-setup) | Харденинг Ubuntu-сервера: SSH, ufw, автообновления | Ansible | — |
 | [prometheus-grafana-stack](https://github.com/DevTuwkan4ik/prometheus-grafana-stack) | Мониторинг: датасорс и дашборд как код | Prometheus · Grafana · Docker | — |
 | [blue-green-deploy](https://github.com/DevTuwkan4ik/blue-green-deploy) | Zero-downtime деплой: nginx upstream swap | Docker · Nginx | — |
+| [realtime-leaderboard](https://github.com/DevTuwkan4ik/realtime-leaderboard) | Живой лидерборд: обновления пушатся по WebSocket | Node · Express · WebSocket | — |
 
 ---
 

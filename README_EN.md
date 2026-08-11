@@ -62,6 +62,7 @@
 | [image-processing-service](https://github.com/DevTuwkan4ik/image-processing-service) | Resize, grayscale, rotate, format conversion | Go · image (stdlib) | — |
 | [markdown-notes](https://github.com/DevTuwkan4ik/markdown-notes) | Notes with a Markdown renderer written from scratch | Node · Express | — |
 | [ecommerce-sales-analysis](https://github.com/DevTuwkan4ik/ecommerce-sales-analysis) | EDA: data cleaning, revenue analysis, charts | Python · Pandas · Matplotlib | — |
+| [file-integrity-checker](https://github.com/DevTuwkan4ik/file-integrity-checker) | CLI file integrity monitor (SHA-256 baseline/check) | Rust | — |
 
 ---
 

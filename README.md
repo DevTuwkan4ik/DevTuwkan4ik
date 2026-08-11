@@ -60,6 +60,7 @@
 | [caching-proxy](https://github.com/DevTuwkan4ik/caching-proxy) | CLI-прокси с кэшированием GET-ответов в памяти | Go · net/http | — |
 | [movie-reservation-system](https://github.com/DevTuwkan4ik/movie-reservation-system) | Бронирование мест в кино: без double-booking под нагрузкой | Python · FastAPI · SQLite | — |
 | [image-processing-service](https://github.com/DevTuwkan4ik/image-processing-service) | Ресайз, grayscale, поворот, конвертация формата | Go · image (stdlib) | — |
+| [markdown-notes](https://github.com/DevTuwkan4ik/markdown-notes) | Заметки с Markdown-рендерером, написанным с нуля | Node · Express | — |
 
 ---
 

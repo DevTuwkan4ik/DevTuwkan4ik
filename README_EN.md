@@ -67,6 +67,7 @@
 | [weather-web-app](https://github.com/DevTuwkan4ik/weather-web-app) | City weather (Open-Meteo) with a TTL cache | Node · Express | — |
 | [ui-component-library](https://github.com/DevTuwkan4ik/ui-component-library) | Accessible components: Accordion, Tabs, Tooltip, Cookie Consent | TypeScript · Vite · Playwright | — |
 | [github-activity-cli](https://github.com/DevTuwkan4ik/github-activity-cli) | GitHub user activity in the terminal (9 event types) | C# · .NET | — |
+| [quiz-app](https://github.com/DevTuwkan4ik/quiz-app) | A quiz with no way to fake the score — the server alone decides | Java | — |
 
 ---
 

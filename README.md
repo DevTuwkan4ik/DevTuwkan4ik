@@ -67,6 +67,7 @@
 | [weather-web-app](https://github.com/DevTuwkan4ik/weather-web-app) | Погода по городу (Open-Meteo) с TTL-кэшем | Node · Express | — |
 | [ui-component-library](https://github.com/DevTuwkan4ik/ui-component-library) | Доступные компоненты: Accordion, Tabs, Tooltip, Cookie Consent | TypeScript · Vite · Playwright | — |
 | [github-activity-cli](https://github.com/DevTuwkan4ik/github-activity-cli) | Активность GitHub-пользователя в консоли (9 типов событий) | C# · .NET | — |
+| [quiz-app](https://github.com/DevTuwkan4ik/quiz-app) | Квиз без возможности подделать счёт — решает только сервер | Java | — |
 
 ---
 

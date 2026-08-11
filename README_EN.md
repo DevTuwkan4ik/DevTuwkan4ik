@@ -68,6 +68,7 @@
 | [ui-component-library](https://github.com/DevTuwkan4ik/ui-component-library) | Accessible components: Accordion, Tabs, Tooltip, Cookie Consent | TypeScript · Vite · Playwright | — |
 | [github-activity-cli](https://github.com/DevTuwkan4ik/github-activity-cli) | GitHub user activity in the terminal (9 event types) | C# · .NET | — |
 | [quiz-app](https://github.com/DevTuwkan4ik/quiz-app) | A quiz with no way to fake the score — the server alone decides | Java | — |
+| [vpn-server-setup](https://github.com/DevTuwkan4ik/vpn-server-setup) | WireGuard VPN server: keys, configs, firewall — idempotently | Ansible · WireGuard | — |
 
 ---
 

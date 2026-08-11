@@ -58,6 +58,7 @@
 | [blue-green-deploy](https://github.com/DevTuwkan4ik/blue-green-deploy) | Zero-downtime деплой: nginx upstream swap | Docker · Nginx | — |
 | [realtime-leaderboard](https://github.com/DevTuwkan4ik/realtime-leaderboard) | Живой лидерборд: обновления пушатся по WebSocket | Node · Express · WebSocket | — |
 | [caching-proxy](https://github.com/DevTuwkan4ik/caching-proxy) | CLI-прокси с кэшированием GET-ответов в памяти | Go · net/http | — |
+| [movie-reservation-system](https://github.com/DevTuwkan4ik/movie-reservation-system) | Бронирование мест в кино: без double-booking под нагрузкой | Python · FastAPI · SQLite | — |
 
 ---
 
@@ -83,9 +84,11 @@
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)

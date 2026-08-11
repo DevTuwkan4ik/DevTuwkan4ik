@@ -64,6 +64,7 @@
 | [ecommerce-sales-analysis](https://github.com/DevTuwkan4ik/ecommerce-sales-analysis) | EDA: очистка данных, анализ выручки, графики | Python · Pandas · Matplotlib | — |
 | [file-integrity-checker](https://github.com/DevTuwkan4ik/file-integrity-checker) | CLI-контроль целостности файлов (baseline/check по SHA-256) | Rust | — |
 | [db-backup-utility](https://github.com/DevTuwkan4ik/db-backup-utility) | Резервное копирование SQLite через Online Backup API | Python · SQLite | — |
+| [weather-web-app](https://github.com/DevTuwkan4ik/weather-web-app) | Погода по городу (Open-Meteo) с TTL-кэшем | Node · Express | — |
 
 ---
 

@@ -70,6 +70,7 @@
 | [quiz-app](https://github.com/DevTuwkan4ik/quiz-app) | Квиз без возможности подделать счёт — решает только сервер | Java | — |
 | [vpn-server-setup](https://github.com/DevTuwkan4ik/vpn-server-setup) | WireGuard VPN-сервер: ключи, конфиги, firewall — идемпотентно | Ansible · WireGuard | — |
 | [instagram-stories-feature](https://github.com/DevTuwkan4ik/instagram-stories-feature) | Просмотрщик историй: автопереход по таймеру, тапы, пауза удержанием | TypeScript · Vite · Playwright | — |
+| [workout-tracker](https://github.com/DevTuwkan4ik/workout-tracker) | Дневник тренировок: прогресс и рекорды по estimated 1RM (формула Эпли) | Node.js · Express · node:sqlite | — |
 
 ---
 

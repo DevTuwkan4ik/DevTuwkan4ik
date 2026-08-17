@@ -73,6 +73,7 @@
 | [workout-tracker](https://github.com/DevTuwkan4ik/workout-tracker) | Дневник тренировок: прогресс и рекорды по estimated 1RM (формула Эпли) | Node.js · Express · node:sqlite | — |
 | [nginx-log-analyser](https://github.com/DevTuwkan4ik/nginx-log-analyser) | CLI-разбор access-логов Nginx: топ путей/IP, коды ответа, трафик | Python | — |
 | [github-trending-cli](https://github.com/DevTuwkan4ik/github-trending-cli) | Трендовые репозитории с github.com/trending: разбор реального HTML | Python | — |
+| [log-archive-tool](https://github.com/DevTuwkan4ik/log-archive-tool) | CLI-архивация логов в .tar.gz с меткой времени | Python | — |
 
 ---
 

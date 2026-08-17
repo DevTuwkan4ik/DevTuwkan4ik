@@ -77,6 +77,7 @@
 | [devkit-cli](https://github.com/DevTuwkan4ik/devkit-cli) | Dev CLI toolbox: folder-info, count, env-check, json-format | Python | — |
 | [server-performance-stats](https://github.com/DevTuwkan4ik/server-performance-stats) | CLI: CPU, load average, memory, disk usage | Python | — |
 | [github-random-repo](https://github.com/DevTuwkan4ik/github-random-repo) | Random public repository via the GitHub Search API | Python | — |
+| [changelog-pages](https://github.com/DevTuwkan4ik/changelog-pages) | Static changelog deployed to GitHub Pages via Actions | HTML · CSS · GitHub Actions | [open](https://devtuwkan4ik.github.io/changelog-pages/) |
 
 ---
 

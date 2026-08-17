@@ -76,6 +76,7 @@
 | [log-archive-tool](https://github.com/DevTuwkan4ik/log-archive-tool) | CLI log archiver: timestamped .tar.gz compression | Python | — |
 | [devkit-cli](https://github.com/DevTuwkan4ik/devkit-cli) | Dev CLI toolbox: folder-info, count, env-check, json-format | Python | — |
 | [server-performance-stats](https://github.com/DevTuwkan4ik/server-performance-stats) | CLI: CPU, load average, memory, disk usage | Python | — |
+| [github-random-repo](https://github.com/DevTuwkan4ik/github-random-repo) | Random public repository via the GitHub Search API | Python | — |
 
 ---
 

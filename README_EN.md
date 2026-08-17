@@ -79,6 +79,7 @@
 | [github-random-repo](https://github.com/DevTuwkan4ik/github-random-repo) | Random public repository via the GitHub Search API | Python | — |
 | [changelog-pages](https://github.com/DevTuwkan4ik/changelog-pages) | Static changelog deployed to GitHub Pages via Actions | HTML · CSS · GitHub Actions | [open](https://devtuwkan4ik.github.io/changelog-pages/) |
 | [polls-compose-app](https://github.com/DevTuwkan4ik/polls-compose-app) | Polls: a real multi-container Docker Compose setup (app + Postgres) | Node.js · PostgreSQL · Docker Compose | — |
+| [dummy-systemd-service](https://github.com/DevTuwkan4ik/dummy-systemd-service) | Heartbeat daemon as a real, sandboxed systemd service | Python · systemd | — |
 
 ---
 

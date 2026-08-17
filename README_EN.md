@@ -81,6 +81,7 @@
 | [polls-compose-app](https://github.com/DevTuwkan4ik/polls-compose-app) | Polls: a real multi-container Docker Compose setup (app + Postgres) | Node.js · PostgreSQL · Docker Compose | — |
 | [dummy-systemd-service](https://github.com/DevTuwkan4ik/dummy-systemd-service) | Heartbeat daemon as a real, sandboxed systemd service | Python · systemd | — |
 | [ghcr-deploy-pipeline](https://github.com/DevTuwkan4ik/ghcr-deploy-pipeline) | CI/CD image publishing to GitHub Container Registry, verified for real | Node.js · Docker · GHCR | — |
+| [consul-service-discovery](https://github.com/DevTuwkan4ik/consul-service-discovery) | Service discovery with Consul: dynamic lookup, graceful degradation | Node.js · Consul · Docker Compose | — |
 
 ---
 

@@ -81,6 +81,7 @@
 | [polls-compose-app](https://github.com/DevTuwkan4ik/polls-compose-app) | Опросы: настоящий multi-container Docker Compose (app + Postgres) | Node.js · PostgreSQL · Docker Compose | — |
 | [dummy-systemd-service](https://github.com/DevTuwkan4ik/dummy-systemd-service) | Heartbeat-демон как настоящий systemd-сервис с песочницей | Python · systemd | — |
 | [ghcr-deploy-pipeline](https://github.com/DevTuwkan4ik/ghcr-deploy-pipeline) | CI/CD-публикация образа в GitHub Container Registry с реальной проверкой | Node.js · Docker · GHCR | — |
+| [consul-service-discovery](https://github.com/DevTuwkan4ik/consul-service-discovery) | Service discovery через Consul: динамический поиск, graceful degradation | Node.js · Consul · Docker Compose | — |
 
 ---
 

@@ -72,6 +72,7 @@
 | [instagram-stories-feature](https://github.com/DevTuwkan4ik/instagram-stories-feature) | Stories viewer: timer auto-advance, tap navigation, hold-to-pause | TypeScript · Vite · Playwright | — |
 | [workout-tracker](https://github.com/DevTuwkan4ik/workout-tracker) | Workout log: per-exercise progress and PRs via estimated 1RM (Epley) | Node.js · Express · node:sqlite | — |
 | [nginx-log-analyser](https://github.com/DevTuwkan4ik/nginx-log-analyser) | CLI Nginx access log parser: top paths/IPs, status codes, bandwidth | Python | — |
+| [github-trending-cli](https://github.com/DevTuwkan4ik/github-trending-cli) | Trending repos from github.com/trending: real HTML parsing | Python | — |
 
 ---
 

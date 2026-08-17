@@ -72,6 +72,7 @@
 | [instagram-stories-feature](https://github.com/DevTuwkan4ik/instagram-stories-feature) | Просмотрщик историй: автопереход по таймеру, тапы, пауза удержанием | TypeScript · Vite · Playwright | — |
 | [workout-tracker](https://github.com/DevTuwkan4ik/workout-tracker) | Дневник тренировок: прогресс и рекорды по estimated 1RM (формула Эпли) | Node.js · Express · node:sqlite | — |
 | [nginx-log-analyser](https://github.com/DevTuwkan4ik/nginx-log-analyser) | CLI-разбор access-логов Nginx: топ путей/IP, коды ответа, трафик | Python | — |
+| [github-trending-cli](https://github.com/DevTuwkan4ik/github-trending-cli) | Трендовые репозитории с github.com/trending: разбор реального HTML | Python | — |
 
 ---
 

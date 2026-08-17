@@ -80,6 +80,7 @@
 | [changelog-pages](https://github.com/DevTuwkan4ik/changelog-pages) | Статичный чейнджлог, задеплоенный на GitHub Pages через Actions | HTML · CSS · GitHub Actions | [открыть](https://devtuwkan4ik.github.io/changelog-pages/) |
 | [polls-compose-app](https://github.com/DevTuwkan4ik/polls-compose-app) | Опросы: настоящий multi-container Docker Compose (app + Postgres) | Node.js · PostgreSQL · Docker Compose | — |
 | [dummy-systemd-service](https://github.com/DevTuwkan4ik/dummy-systemd-service) | Heartbeat-демон как настоящий systemd-сервис с песочницей | Python · systemd | — |
+| [ghcr-deploy-pipeline](https://github.com/DevTuwkan4ik/ghcr-deploy-pipeline) | CI/CD-публикация образа в GitHub Container Registry с реальной проверкой | Node.js · Docker · GHCR | — |
 
 ---
 

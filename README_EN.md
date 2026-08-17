@@ -74,6 +74,7 @@
 | [nginx-log-analyser](https://github.com/DevTuwkan4ik/nginx-log-analyser) | CLI Nginx access log parser: top paths/IPs, status codes, bandwidth | Python | — |
 | [github-trending-cli](https://github.com/DevTuwkan4ik/github-trending-cli) | Trending repos from github.com/trending: real HTML parsing | Python | — |
 | [log-archive-tool](https://github.com/DevTuwkan4ik/log-archive-tool) | CLI log archiver: timestamped .tar.gz compression | Python | — |
+| [devkit-cli](https://github.com/DevTuwkan4ik/devkit-cli) | Dev CLI toolbox: folder-info, count, env-check, json-format | Python | — |
 
 ---
 

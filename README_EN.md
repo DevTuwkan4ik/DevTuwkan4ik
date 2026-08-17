@@ -78,6 +78,7 @@
 | [server-performance-stats](https://github.com/DevTuwkan4ik/server-performance-stats) | CLI: CPU, load average, memory, disk usage | Python | — |
 | [github-random-repo](https://github.com/DevTuwkan4ik/github-random-repo) | Random public repository via the GitHub Search API | Python | — |
 | [changelog-pages](https://github.com/DevTuwkan4ik/changelog-pages) | Static changelog deployed to GitHub Pages via Actions | HTML · CSS · GitHub Actions | [open](https://devtuwkan4ik.github.io/changelog-pages/) |
+| [polls-compose-app](https://github.com/DevTuwkan4ik/polls-compose-app) | Polls: a real multi-container Docker Compose setup (app + Postgres) | Node.js · PostgreSQL · Docker Compose | — |
 
 ---
 

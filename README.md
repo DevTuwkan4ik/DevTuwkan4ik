@@ -75,6 +75,7 @@
 | [github-trending-cli](https://github.com/DevTuwkan4ik/github-trending-cli) | Трендовые репозитории с github.com/trending: разбор реального HTML | Python | — |
 | [log-archive-tool](https://github.com/DevTuwkan4ik/log-archive-tool) | CLI-архивация логов в .tar.gz с меткой времени | Python | — |
 | [devkit-cli](https://github.com/DevTuwkan4ik/devkit-cli) | Набор dev CLI-утилит: folder-info, count, env-check, json-format | Python | — |
+| [server-performance-stats](https://github.com/DevTuwkan4ik/server-performance-stats) | CLI: CPU, load average, память, диск | Python | — |
 
 ---
 

@@ -69,6 +69,7 @@
 | [github-activity-cli](https://github.com/DevTuwkan4ik/github-activity-cli) | Активность GitHub-пользователя в консоли (9 типов событий) | C# · .NET | — |
 | [quiz-app](https://github.com/DevTuwkan4ik/quiz-app) | Квиз без возможности подделать счёт — решает только сервер | Java | — |
 | [vpn-server-setup](https://github.com/DevTuwkan4ik/vpn-server-setup) | WireGuard VPN-сервер: ключи, конфиги, firewall — идемпотентно | Ansible · WireGuard | — |
+| [instagram-stories-feature](https://github.com/DevTuwkan4ik/instagram-stories-feature) | Просмотрщик историй: автопереход по таймеру, тапы, пауза удержанием | TypeScript · Vite · Playwright | — |
 
 ---
 

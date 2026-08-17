@@ -69,6 +69,7 @@
 | [github-activity-cli](https://github.com/DevTuwkan4ik/github-activity-cli) | GitHub user activity in the terminal (9 event types) | C# · .NET | — |
 | [quiz-app](https://github.com/DevTuwkan4ik/quiz-app) | A quiz with no way to fake the score — the server alone decides | Java | — |
 | [vpn-server-setup](https://github.com/DevTuwkan4ik/vpn-server-setup) | WireGuard VPN server: keys, configs, firewall — idempotently | Ansible · WireGuard | — |
+| [instagram-stories-feature](https://github.com/DevTuwkan4ik/instagram-stories-feature) | Stories viewer: timer auto-advance, tap navigation, hold-to-pause | TypeScript · Vite · Playwright | — |
 
 ---
 
